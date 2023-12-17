@@ -1,0 +1,6 @@
+[submodule "kids-care-front"]
+	path = kids-care-front
+	url = https://github.com/hehmdalolkek/kids-care-front.git
+[submodule "kids-care-back"]
+	path = kids-care-back
+	url = https://github.com/hehmdalolkek/kids-care-back.git
